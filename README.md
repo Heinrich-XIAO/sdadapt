@@ -18,7 +18,7 @@ I made this to try to see how fast I could finish a pure PCB project in EasyEDA.
 2. Plug into USB-A port.
 
 ## 3D Model
-<img width="695" height="623" alt="Screenshot 2026-04-18 at 21 16 14" src="https://github.com/user-attachments/assets/7267e911-4dd3-40f8-a50c-9454b5b3164a" />
+<img width="1296" height="750" alt="image" src="https://github.com/user-attachments/assets/257baaae-26b7-4127-aa08-00b36b237755" />
 
 ## PCB
 <img width="692" height="727" alt="Screenshot 2026-04-18 at 21 16 59" src="https://github.com/user-attachments/assets/e28f35d0-78bf-4a80-a876-0c1e5271e375" />
@@ -26,5 +26,5 @@ I made this to try to see how fast I could finish a pure PCB project in EasyEDA.
 ## Schematic
 <img width="1223" height="687" alt="Screenshot 2026-04-18 at 21 17 31" src="https://github.com/user-attachments/assets/4c363683-9684-4294-9f1a-e2942361aa10" />
 
-## Zine
-<img width="1080" height="1656" alt="image" src="https://github.com/user-attachments/assets/fdbd50b3-65ba-43b0-940a-872433e59731" />
+## Zine page
+<img width="1080" height="1656" alt="image" src="https://github.com/user-attachments/assets/4ab8b3dd-5c9c-4ca1-b8b3-e1d4fee31f08" />
