@@ -6,6 +6,13 @@ This project is an SD-Card to USB-A adapter using the GL3224 IC. It works like a
 
 I made this to try to see how fast I could finish a pure PCB project in EasyEDA.
 
+## Build
+1. Go to https://oshwlab.com/heinrichfromtweetor/project_iowvludq
+2. Open the Design Drawing
+3. Open PCB file. <img width="275" height="240" alt="Screenshot 2026-04-19 at 10 30 20" src="https://github.com/user-attachments/assets/0f54b8a6-3a05-41c3-858c-4a8e4fb40878" />
+4. Click Order PCB. <img width="285" height="236" alt="Screenshot 2026-04-19 at 10 30 42" src="https://github.com/user-attachments/assets/32d77697-d815-4907-b970-e015db5d7044" />
+5. Follow prompts on JLCPCB website to order.
+
 ## 3D Model
 <img width="695" height="623" alt="Screenshot 2026-04-18 at 21 16 14" src="https://github.com/user-attachments/assets/7267e911-4dd3-40f8-a50c-9454b5b3164a" />
 
