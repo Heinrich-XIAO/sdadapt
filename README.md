@@ -13,6 +13,10 @@ I made this to try to see how fast I could finish a pure PCB project in EasyEDA.
 4. Click Order PCB. <img width="285" height="236" alt="Screenshot 2026-04-19 at 10 30 42" src="https://github.com/user-attachments/assets/32d77697-d815-4907-b970-e015db5d7044" />
 5. Follow prompts on JLCPCB website to order.
 
+## Usage
+1. Insert a MicroSD/TF card.
+2. Plug into USB-A port.
+
 ## 3D Model
 <img width="695" height="623" alt="Screenshot 2026-04-18 at 21 16 14" src="https://github.com/user-attachments/assets/7267e911-4dd3-40f8-a50c-9454b5b3164a" />
 
