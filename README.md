@@ -1,5 +1,7 @@
 # sdadapt
 
+OSHWLAB Link: https://oshwlab.com/heinrichfromtweetor/project_iowvludq
+
 This project is an SD-Card to USB-A adapter using the GL3224 IC. It works like any other sd card adapter by plugging it into a USB port and then plugging a Micro-SD/TF card in.
 
 I made this to try to see how fast I could finish a pure PCB project in EasyEDA.
