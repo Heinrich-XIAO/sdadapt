@@ -27,4 +27,4 @@ I made this to try to see how fast I could finish a pure PCB project in EasyEDA.
 <img width="1223" height="687" alt="Screenshot 2026-04-18 at 21 17 31" src="https://github.com/user-attachments/assets/4c363683-9684-4294-9f1a-e2942361aa10" />
 
 ## Zine page
-<img width="1080" height="1656" alt="image" src="https://github.com/user-attachments/assets/4ab8b3dd-5c9c-4ca1-b8b3-e1d4fee31f08" />
+<img width="1080" height="1656" alt="image" src="https://github.com/user-attachments/assets/d6876736-a363-41ba-bca9-1d4e6565b4c0" />
