@@ -1,6 +1,7 @@
 # sdadapt
 
 EasyEDA Link: https://pro.easyeda.com/editor#id=79cabab4a25e46fa97bdd52e71202b8d,tab=*8ad78371fb3a4e99a5fa10251312a90d@79cabab4a25e46fa97bdd52e71202b8d
+
 Onshape Link: https://cad.onshape.com/documents/4d5e3af1abd5557796bbb187/w/615f5ac0c4758f04aa42cc10/e/6db12a32cd2461a0f6cbe5ea?renderMode=0&uiState=6a0234d60fd1866fbcfd7422
 
 This project is an SD-Card to USB-A adapter using the GL3224 IC. It works like any other sd card adapter by plugging it into a USB port and then plugging a Micro-SD/TF card in.
