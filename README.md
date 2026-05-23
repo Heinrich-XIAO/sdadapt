@@ -2,6 +2,8 @@
 
 EasyEDA Link: https://pro.easyeda.com/editor#id=79cabab4a25e46fa97bdd52e71202b8d,tab=*8ad78371fb3a4e99a5fa10251312a90d@79cabab4a25e46fa97bdd52e71202b8d
 
+Onshape Link: https://cad.onshape.com/documents/4d5e3af1abd5557796bbb187/w/615f5ac0c4758f04aa42cc10/e/6db12a32cd2461a0f6cbe5ea?renderMode=0&uiState=6a0234d60fd1866fbcfd7422
+
 This project is an SD-Card to USB-A adapter using the GL3224 IC. It works like any other sd card adapter by plugging it into a USB port and then plugging a Micro-SD/TF card in.
 
 I made this to try to see how fast I could finish a pure PCB project in EasyEDA.
@@ -27,5 +29,5 @@ I made this to try to see how fast I could finish a pure PCB project in EasyEDA.
 <img width="1223" height="687" alt="Screenshot 2026-04-18 at 21 17 31" src="https://github.com/user-attachments/assets/4c363683-9684-4294-9f1a-e2942361aa10" />
 
 ## Zine page
-<img width="1080" height="1656" alt="image" src="https://github.com/user-attachments/assets/e774a4ca-9348-41b5-a94d-9cafaaff26da" />
+<img width="1080" height="1656" alt="image" src="https://github.com/user-attachments/assets/bbdcf3ce-36d1-4f05-a689-aedc73ce6eb3" />
 
